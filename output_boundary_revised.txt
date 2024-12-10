@@ -1,0 +1,16 @@
+loginWithValidCredentialsFromExcel=true
+ts-2VerifyPageNavigationAndLoadTimeForBillingCounter=true
+ts-3ActivateCounterInDispensar=true
+ts-4PurchaseRequestListLoad=true
+ts-5VerifyErrorMessageWhileAddingNewLabTestInLaboratory=true
+ts-6HandleAlertOnRadiologyModule=true
+ts-7Data-drivenTestingForPatientSearch=true
+ts-8ErrorHandlingAndLoggingInPurchaseRequestList=true
+ts-9VerifyAssertionForCounterActivation=true
+ts-10VerifyLocatorStrategyForAppointmentSearch=true
+ts-11Data-drivenTestingForPatientSearch=true
+ts-12AssertionsAreDefinedForRequiredFields(e.g.,Username,password)AndOptionalFields(e.g.,RememberMe).=true
+ts-13VerifyTheTooltipTextOnHoverOfStarIconInLaboratory=true
+ts-14LocatorstrategiesWithxpath&css=true
+ts-15ManageWebElementInteractions=true
+ts-16ImplementWaitstrategies=true
